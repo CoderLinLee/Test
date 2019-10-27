@@ -17,7 +17,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
         //fajefaioefaio
-        //放假阿伟放假啊我 i 哦
+        //小明
     }
 
 
