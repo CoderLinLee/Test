@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		5AD538172365D4380081B0D5 /* Me in Resources */ = {isa = PBXBuildFile; fileRef = 5AD538162365D4380081B0D5 /* Me */; };
 		5AF3B6EB23656FF0001E4361 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5AF3B6EA23656FF0001E4361 /* AppDelegate.swift */; };
 		5AF3B6ED23656FF0001E4361 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5AF3B6EC23656FF0001E4361 /* SceneDelegate.swift */; };
 		5AF3B6EF23656FF0001E4361 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5AF3B6EE23656FF0001E4361 /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		5AD538162365D4380081B0D5 /* Me */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Me; sourceTree = "<group>"; };
 		5AF3B6E723656FF0001E4361 /* TestDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TestDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		5AF3B6EA23656FF0001E4361 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		5AF3B6EC23656FF0001E4361 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -58,6 +60,7 @@
 			children = (
 				5AF3B6FE236570BC001E4361 /* Home */,
 				5AF3B6EA23656FF0001E4361 /* AppDelegate.swift */,
+				5AD538162365D4380081B0D5 /* Me */,
 				5AF3B6EC23656FF0001E4361 /* SceneDelegate.swift */,
 				5AF3B6EE23656FF0001E4361 /* ViewController.swift */,
 				5AF3B6F023656FF0001E4361 /* Main.storyboard */,
@@ -133,6 +136,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5AD538172365D4380081B0D5 /* Me in Resources */,
 				5AF3B6F723656FF3001E4361 /* LaunchScreen.storyboard in Resources */,
 				5AF3B6F423656FF3001E4361 /* Assets.xcassets in Resources */,
 				5AF3B6F223656FF0001E4361 /* Main.storyboard in Resources */,
